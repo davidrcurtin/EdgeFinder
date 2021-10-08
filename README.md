@@ -1,10 +1,5 @@
 # EdgeFinder
-EdgeFinder is a Mathematica Implementation of the Edge-to-Bump method for determining the position of an 'edge' in a distribution of data, relevant for kinematic distributions of variables like MT2.
-
-
-======
-
-EdgeFinder is a Mathematica Implementation of the Edge-to-Bump method for determining the position of an 'edge' in a distribution of data, which was introduced in the paper
+EdgeFinder is a Mathematica Implementation of the Edge-to-Bump method for determining the position of an 'edge' in a distribution of data, relevant for kinematic distributions of variables like MT2. It was introduced in the paper
 
 "Mixing It Up With MT2: Unbiased Mass Measurements at Hadron Colliders"
 David Curtin, Dec 2011, arXiv:1112.1095 (Section 2).
