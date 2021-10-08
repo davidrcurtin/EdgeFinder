@@ -16,7 +16,7 @@ Feel free to contact me (david dot r dot curtin at gmail dot com) if you have an
 
 Downloads available in this repository:
 * EdgeFinder 1.0 Mathematica Code (December 2011). This Mathematica Notebook is meant to be self-explanatory. It contains the EdgeFinder code, as well as several extensively commented examples that walk the user through the application of the code step-by-step. Hopefully this will be easier than a separate instruction manual, and allow the user to start applying the code to their own distributions very quickly. For a detailed explanation of the Edge-to-Bump method see Section 2 of the paper.
-* Supplementary document to arXiv:1112.1095, containing all the edge-measurement plots from the two Monte Carlo studies in that paper. 
+* Supplementary document to arXiv:1112.1095, containing all the edge-measurement plots from the two Monte Carlo studies in that paper. [Oct 2021 Addendum: forgive the outdated meme.] 
 
 Citation
 
